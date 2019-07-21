@@ -25,7 +25,7 @@ SECRET_KEY = '+odgryv)nl4xdojo&7i)o**g(a9_ed6$qp59x@61@l(wu==f#j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["somefilms.pythonanywhere.com"]
+ALLOWED_HOSTS = ["admyukio.pythonanywhere.com"]
 
 
 # Application definition
